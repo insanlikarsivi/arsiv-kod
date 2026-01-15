@@ -10,7 +10,8 @@ const CATEGORY_MAP = {
   "Ege Uygarlıkları": "Ege",
   "Antik Yunan": "Yunan",
   "Antik Roma": "Roma",
-  "Tarihe Yön Veren Savaşlar": "Savaslar"
+  "Tarihe Yön Veren Savaşlar": "Savaslar",
+  "Türklerin Kökeni": "Turk"
 };
 
 /* ======================================================
