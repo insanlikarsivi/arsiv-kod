@@ -11,7 +11,8 @@ const CATEGORY_MAP = {
   "Antik Yunan": "Yunan",
   "Antik Roma": "Roma",
   "Tarihe Yön Veren Savaşlar": "Savaslar",
-  "Türklerin Kökeni": "Turk"
+  "Türklerin Kökeni": "Turk",
+  "Osmanlı Hayatı": "Osmanli"
 };
 
 /* ======================================================
