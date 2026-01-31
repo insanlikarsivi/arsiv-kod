@@ -1,0 +1,13 @@
+İlk bilgisayar faresi 1964 yılında Doug Engelbart tarafından ahşaptan yapılmıştır.
+Dünyanın ilk programcısı, 1840'larda mekanik bir bilgisayar için algoritma yazan Ada Lovelace'dir.
+İnternet üzerindeki ilk alan adı 'symbolics.com'dur ve 15 Mart 1885'te tescil edilmiştir.
+QWERTY klavye dizilimi, daktilolarda harflerin takılmasını önlemek için harfleri kasten birbirinden uzaklaştırmak amacıyla tasarlanmıştır.
+İlk dijital fotoğraf makinesi 1975 yılında Kodak tarafından üretildi ve sadece 0.01 megapiksel çözünürlüğündeydi.
+Dünyanın ilk web sitesi 6 Ağustos 1991'de yayına girdi: info.cern.ch
+Apollo 11'in Ay'a inişinde kullanılan bilgisayarın işlem gücü, bugünkü modern bir hesap makinesinden bile daha düşüktü.
+İlk taşınabilir cep telefonu 1973 yılında Motorola tarafından üretildi; ağırlığı yaklaşık 1.1 kilogramdı.
+'Spam' kelimesi, internet terimi olmadan önce konserve bir et markasının adıydı.
+Dünyanın ilk sabit diski (HDD) 1956 yılında IBM tarafından yapıldı ve 5 MB kapasitesindeydi; ağırlığı ise bir tondan fazlaydı.
+İlk bilgisayar oyunu olan 'Spacewar!', 1962 yılında MIT'deki öğrenciler tarafından geliştirilmiştir.
+E-postanın babası sayılan Ray Tomlinson, 1971 yılında '@' sembolünü kullanıcı adı ile bilgisayar adını ayırmak için seçti.
+Dünyanın en çok satan teknolojik ürünü iPhone değil, 250 milyondan fazla satan Nokia 1100 telefonudur.
