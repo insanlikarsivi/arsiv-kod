@@ -11,3 +11,104 @@ Dünyanın ilk sabit diski (HDD) 1956 yılında IBM tarafından yapıldı ve 5 M
 İlk bilgisayar oyunu olan 'Spacewar!', 1962 yılında MIT'deki öğrenciler tarafından geliştirilmiştir.
 E-postanın babası sayılan Ray Tomlinson, 1971 yılında '@' sembolünü kullanıcı adı ile bilgisayar adını ayırmak için seçti.
 Dünyanın en çok satan teknolojik ürünü iPhone değil, 250 milyondan fazla satan Nokia 1100 telefonudur.
+Anladım, bu bilgileri kopyalayıp saklaman veya paylaşman için saf metin (txt) formatına uygun, madde işaretli bir liste haline getirdim.
+İlk bilgisayar virusu 1971'de yazılan Creeper'di.
+Dunyanın ilk dizustu bilgisayarı Osborne 1 (1981), 11 kg agırlıgındaydı.
+1980'deki ilk 1 GB kapasiteli disk surucusu bir buzdolabı boyutundaydı.
+Bilgisayar faresine, kablosu kuyruga benzedigi icin "mouse" ismi verilmisti.
+Ilk mikrosislemci olan Intel 4004, aslında bir Japon hesap makinesi sirketi icin tasarlanmıstı.
+Apple’ın ilk logosunda Isaac Newton bir agacın altında otururken resmedilmisti.
+Super bilgisayarların urettigi ısı, bazen binaları ısıtmak icin kullanılır.
+Bir USB bellek, 1960'lardaki tum NASA bilgisayarlarının toplamından daha fazla islem gucune sahiptir.
+Firefox logosundaki hayvan bir tilki degil, bir "Kızıl Panda"dır.
+Google'ın ilk depolama birimi Lego parcalardan yapılmıstı.
+"Bug" (bocek) terimi, 1947'de bir bilgisayarın icine giren gercek bir guve yuzunden dogdu.
+Dunyadaki paranın sadece %8'i fiziksel nakittir, kalanı dijital veridir.
+PHP baslangıcta "Personal Home Page" (Kisisel Ana Sayfa) anlamına geliyordu.
+JavaScript, sadece 10 gunde Brendan Eich tarafından yazıldı.
+Linux isletim sistemi, Linus Torvalds tarafından sadece hobi olarak baslatıldı.
+"CAPTCHA" bir kısaltmadır: Completely Automated Public Turing test to tell Computers and Humans Apart.
+Dunyada yaklasık 700 farklı programlama dili bulunmaktadır.
+Microsoft Windows'un orijinal adı "Interface Manager" olacaktı.
+Python dilinin adı yılanlardan degil, Monty Python komedi grubundan gelir.
+Ilk Wiki sitesi 1995'te kuruldu; "Wiki" Hawaii dilinde "hızlı" demektir.
+YouTube'a yuklenen ilk video "Me at the zoo"dur.
+Google'ın adı aslında "Googol" (10 uzeri 100) olacaktı, yazım yanlısı sonucu Google oldu.
+Amazon baslangıcta sadece kitap satıyordu ve adı "Cadabra" olacaktı.
+Twitter’ın mavi kusunun adı Larry'dir (NBA oyuncusu Larry Bird'den gelir).
+Internet trafiginin %50'sinden fazlasını botlar olusturur.
+Her dakika YouTube'a yaklasık 500 saatlik video yukleniyor.
+Mark Zuckerberg renk koru oldugu icin Facebook'un ana rengi mavidir.
+Ilk web kamerası, Cambridge'deki bir kahve makinesini izlemek icin icat edildi.
+"Wi-Fi" kelimesi aslında teknik bir kısaltma degildir, pazarlama icin uydurulmustur.
+Instagram'a yuklenen ilk fotograf bir kopek ve bir ayak fotografıdır.
+Bir insan gunde ortalama 96 kez telefonuna bakıyor.
+Dunyada mobil cihaz sayısı, insan sayısından daha fazladır.
+Bilgisayar basında goz kırpma sayısı dakikada 20'den 7'ye duser.
+Dunyadaki e-postaların yaklasık %85'i spamdir.
+Pokemon Go, 50 milyon kullanıcıya sadece 19 gunde ulastı.
+Google saniyede yaklasık 80.000 arama sorgusu alır.
+Ilk SMS 1992'de gonderildi ve icerigi "Merry Christmas" idi.
+Nintendo aslında 1889 yılında bir oyun kartı sirketi olarak kuruldu.
+Samsung baslangıcta kurutulmus balık ve yerel gıdalar satan bir sirketti.
+Nokia aslında bir kagıt fabrikası olarak kurulmustu.
+Pac-Man'in orijinal adı "Puck-Man"di.
+Game Boy, Ay'a giden Apollo 11 bilgisayarından daha gucluydu.
+Mario'nun baslangıctaki adı "Jumpman"di.
+PlayStation aslında Nintendo icin bir CD-ROM eklentisi olarak tasarlanmıstı.
+Dunyanın en cok satan oyunu Minecraft'tır.
+Tetris oyunu, Sovyet bir muhendis tarafından is arasındayken yazıldı.
+Solitaire oyunu, kullanıcılara "surukle ve bırak" islemini ogretmek icin Windows'a eklendi.
+Mayın Tarlası, mouse ile sag ve sol tık hızını artırmak icin tasarlanmıstı.
+Lara Croft karakteri baslangıcta erkek olarak dusunulmustu.
+Dunyadaki ilk oyun konsolu 1972'de cıkan Magnavox Odyssey'dir.
+Steve Jobs, Apple'dan kovuldugu donemde Pixar'ı satın almıstı.
+Bill Gates'in ilk sirketi Traf-O-Data basarısız bir girisimdi.
+Airbnb kurucuları ilk paralarını ozel tasarım mısır gevregi kutuları satarak kazandı.
+eBay'de satılan ilk urun, bozuk bir lazer isaretleyiciydi.
+Amazon logosundaki ok, A'dan Z'ye her seyin satıldıgını simgeler.
+Twitter logosu altın oran kullanılarak dairelerden olusturulmustur.
+Bluetooth ismi, 10. yuzyılda yasayan Danimarka Kralı Harald Bluetooth'tan gelir.
+Bluetooth logosu, kralın bas harflerinin Viking runlerindeki birlesimidir.
+Sony'nin ilk urunu pirinc pisirme cihazıydı.
+Uber fikri, Paris'te kar fırtınasında taksi bulunamamasıyla ortaya cıktı.
+Dunyanın en pahalı alan adı cars.com'dur (872 milyon dolar).
+En yaygın kullanılan sifre hala "123456"dır.
+"Hack" kelimesi baslangıcta MIT'de yaratıcı gelistirme anlamında kullanılıyordu.
+Dunyada her 39 saniyede bir yeni bir siber saldırı gerceklesiyor.
+Ilk etik hackerlar, bedava arama yapmaya calısan "Phreaker"lardı.
+Kevin Mitnick, FBI'ın en cok arananlar listesine giren ilk hacker'dı.
+Veri merkezleri dunya elektriginin %1'ini tek basına tuketir.
+NASA'nın sistemleri 1999'da 15 yasındaki bir cocuk tarafından hacklendi.
+Siyah ve Beyaz sapkalı hacker terimleri eski kovboy filmlerinden gelir.
+Ilk antivirus yazılımı Reaper, Creeper virusunu silmek icin yazıldı.
+"Robot" kelimesi Cekce "zorunlu calısma" anlamına gelir.
+Deep Blue, satranctı Kasparov'u yenen ilk bilgisayardır (1997).
+Turing Testi, makinelerin insan gibi dusunup dusunmedigini olcmek icin 1950'de onerildi.
+Ilk yapay zeka programı 1951'de dama oynamak icin yazıldı.
+Yapay zeka bugun yazılan kodların %40'ından fazlasına yardımcı oluyor.
+Dunyadaki ilk akıllı telefon 1992'de uretilen IBM Simon'dur.
+Bir akıllı telefon, 1980'lerin bir super bilgisayarından daha hızlıdır.
+Dunya nufusunun yarısından fazlası henuz hic telefon gorusmesi yapmamıstır.
+Emojiler ilk olarak 1999'da Japonya'da ortaya cıktı.
+Akıllı telefonlardaki jiroskoplar mikroskopik titresen yapılar kullanır.
+QR kodlar otomobil parcaları takibi icin Toyota tarafından gelistirildi.
+Fiber optik kablolar veriyi ısık hızıyla iletir.
+Ilk dijital saat 1972'de yapılmıstı.
+GPS aslında sadece askeri amaclar icin tasarlanmıstı.
+CD kapasitesi, Beethoven'ın 9. Senfonisi sıgacak sekilde (74 dk) belirlendi.
+Ilk ticari SMS fiyatı yaklasık 10 centti.
+Dunyadaki ilk transistor 1947'de icat edildi.
+Gunes panelleri aslında 19. yuzyılda kesfedildi.
+Tek bir Google araması, 60W ampulu 17 saniye yakacak enerji harcar.
+Lityum pilleri %20 ile %80 arası sarjda tutmak omrunu uzatır.
+Steampunk, buhar teknolojisi ve modernitenin birlesimidir.
+Internetin icindeki tum elektronların toplam agırlıgı yaklasık 50 gramdır.
+Dunyadaki ilk blog 1994 yılında baslatıldı.
+Photoshop 1.0 sadece Macintosh icin cıkmıstı.
+Macintosh aslında bir elma cesidinin adıdır.
+Ilk podcast 2004 yılında yayımlandı.
+Netflix, DVD kiralama isine basladıgında Google henuz yoktu.
+Bill Gates'in evi dunyanın en yuksek teknolojili evlerinden biridir.
+Siber saldırıların cogu fiziksel bir USB takılmasıyla baslar.
+Moore Yasası'na gore teknoloji her iki yılda bir hızını ikiye katlar.
